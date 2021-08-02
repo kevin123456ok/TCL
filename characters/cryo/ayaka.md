@@ -224,7 +224,7 @@ Kamisato Ayaka gains Usurahi Butou every 10s, increasing her Charged Attack DMG 
 
 **Energy Cost:**  80  
 **Duration:** 5s  
-**Cooldown:** 12s
+**Cooldown:** 20s
 {% endtab %}
 {% endtabs %}
 
